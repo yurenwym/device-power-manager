@@ -1,0 +1,9 @@
+* text=auto
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.rc text eol=crlf
+*.cmd text eol=crlf
+*.ico binary
+*.png binary

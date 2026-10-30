@@ -1,0 +1,13 @@
+/build/
+/cmake-build*/
+/bin/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.lnk
+*.zip
+settings.ini
+.vs/
+CMakeUserPresets.json
+__pycache__/
